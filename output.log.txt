@@ -1,0 +1,460 @@
+2025-08-29 00:11:44.305 [warning] [Window] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vsliveshare.vsliveshare' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-29 00:11:44.305 [warning] [Window] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.gather' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-29 00:11:44.305 [warning] [Window] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vsliveshare.vsliveshare' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-29 00:11:44.305 [warning] [Window] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.gather' wants API proposal 'notebookCellExecutionState' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-29 00:11:44.306 [warning] [Window] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-pylance' wants API proposal 'mcpConfigurationProvider' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-29 00:11:44.306 [warning] [Window] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.vscode-pylance' wants API proposal 'mcpConfigurationProvider' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-08-29 00:11:44.722 [info] [Settings Sync] [AutoSync] Using settings sync service https://vscode-sync.trafficmanager.net/
+2025-08-29 00:11:44.722 [info] [Settings Sync] [AutoSync] Enabled.
+2025-08-29 00:11:44.722 [info] [Settings Sync] [AutoSync] Suspended until auth token is available.
+2025-08-29 00:11:44.722 [info] [Settings Sync] [AutoSync] Using settings sync service https://vscode-sync.trafficmanager.net/
+2025-08-29 00:11:44.722 [info] [Settings Sync] [AutoSync] Enabled.
+2025-08-29 00:11:44.722 [info] [Settings Sync] [AutoSync] Suspended until auth token is available.
+2025-08-29 00:11:44.894 [info] [Window] Found additional builtin extension gallery resources in env ["https://ms-vscode.vscode-unpkg.net/ms-vscode/remote-server/1.5.2/extension","https://ms-vscode.vscode-unpkg.net/ms-vscode/anycode/0.0.75/extension","https://ms-vscode.vscode-unpkg.net/ms-vscode/azure-repos/0.40.0/extension","https://github.vscode-unpkg.net/GitHub/remotehub/0.64.0/extension","https://github.vscode-unpkg.net/GitHub/codespaces/1.17.3/extension","https://ms-vscode.vscode-unpkg.net/ms-vscode/anycode-kotlin/0.0.8/extension","https://ms-vscode.vscode-unpkg.net/ms-vscode/remote-explorer/0.5.0/extension","https://ms-vscode.vscode-unpkg.net/ms-vscode/remote-repositories/0.42.0/extension","https://ms-vscode.vscode-unpkg.net/ms-vscode/anycode-rust/0.0.8/extension","https://ms-vscode.vscode-unpkg.net/ms-vscode/anycode-typescript/0.0.7/extension","https://ms-vscode.vscode-unpkg.net/ms-vscode/anycode-php/0.0.8/extension","https://ms-vscode.vscode-unpkg.net/ms-vscode/anycode-cpp/0.0.7/extension","https://ms-vscode.vscode-unpkg.net/ms-vscode/anycode-java/0.0.8/extension","https://ms-vscode.vscode-unpkg.net/ms-vscode/anycode-c-sharp/0.0.8/extension","https://ms-vscode.vscode-unpkg.net/ms-vscode/anycode-python/0.0.7/extension","https://ms-vscode.vscode-unpkg.net/ms-vscode/anycode-go/0.0.8/extension"]
+2025-08-29 00:11:44.894 [info] [Window] Found additional builtin extension gallery resources in env ["https://ms-vscode.vscode-unpkg.net/ms-vscode/remote-server/1.5.2/extension","https://ms-vscode.vscode-unpkg.net/ms-vscode/anycode/0.0.75/extension","https://ms-vscode.vscode-unpkg.net/ms-vscode/azure-repos/0.40.0/extension","https://github.vscode-unpkg.net/GitHub/remotehub/0.64.0/extension","https://github.vscode-unpkg.net/GitHub/codespaces/1.17.3/extension","https://ms-vscode.vscode-unpkg.net/ms-vscode/anycode-kotlin/0.0.8/extension","https://ms-vscode.vscode-unpkg.net/ms-vscode/remote-explorer/0.5.0/extension","https://ms-vscode.vscode-unpkg.net/ms-vscode/remote-repositories/0.42.0/extension","https://ms-vscode.vscode-unpkg.net/ms-vscode/anycode-rust/0.0.8/extension","https://ms-vscode.vscode-unpkg.net/ms-vscode/anycode-typescript/0.0.7/extension","https://ms-vscode.vscode-unpkg.net/ms-vscode/anycode-php/0.0.8/extension","https://ms-vscode.vscode-unpkg.net/ms-vscode/anycode-cpp/0.0.7/extension","https://ms-vscode.vscode-unpkg.net/ms-vscode/anycode-java/0.0.8/extension","https://ms-vscode.vscode-unpkg.net/ms-vscode/anycode-c-sharp/0.0.8/extension","https://ms-vscode.vscode-unpkg.net/ms-vscode/anycode-python/0.0.7/extension","https://ms-vscode.vscode-unpkg.net/ms-vscode/anycode-go/0.0.8/extension"]
+2025-08-29 00:11:46.374 [error] [Window] [vscode.microsoft-authentication]: This authentication id 'microsoft' has already been registered
+2025-08-29 00:11:46.374 [error] [Window] [vscode.microsoft-authentication]: This authentication id 'microsoft' has already been registered
+2025-08-29 00:11:46.605 [info] [Extension Host (Worker)] Extension host started
+2025-08-29 00:11:46.605 [info] [Extension Host (Worker)] Extension host started
+2025-08-29 00:11:46.627 [info] [Extension Host (Worker)] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-08-29 00:11:46.627 [info] [Extension Host (Worker)] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2025-08-29 00:11:46.875 [info] [Extension Host (Worker)] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2025-08-29 00:11:46.875 [info] [Extension Host (Worker)] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2025-08-29 00:11:46.942 [info] [Extension Host (Worker)] ExtensionService#_doActivateExtension codespaces-contrib.codeswing, startup: false, activationEvent: 'onStartupFinished'
+2025-08-29 00:11:46.942 [info] [Extension Host (Worker)] ExtensionService#_doActivateExtension codespaces-contrib.codeswing, startup: false, activationEvent: 'onStartupFinished'
+2025-08-29 00:11:46.946 [info] [Extension Host (Worker)] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2025-08-29 00:11:46.946 [info] [Extension Host (Worker)] ExtensionService#_doActivateExtension GitHub.copilot, startup: false, activationEvent: 'onStartupFinished'
+2025-08-29 00:11:47.136 [info] [vscode.dev] [getSessions] [all] starting
+2025-08-29 00:11:47.136 [info] [vscode.dev] [getSessions] [all] starting
+2025-08-29 00:11:47.137 [info] [vscode.dev] [getSessions] [all] no accounts found
+2025-08-29 00:11:47.137 [info] [vscode.dev] [getSessions] [all] no accounts found
+2025-08-29 00:11:47.754 [info] [Window] Updating additional builtin extensions cache
+2025-08-29 00:11:47.754 [info] [Window] Updating additional builtin extensions cache
+2025-08-29 00:11:48.521 [info] [Cloud Changes] Prompting to enable cloud changes, has application previously launched from Continue On flow: false
+2025-08-29 00:11:48.521 [info] [Cloud Changes] Prompting to enable cloud changes, has application previously launched from Continue On flow: false
+2025-08-29 00:11:48.893 [info] [Extension Host (Worker)] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-08-29 00:11:48.893 [info] [Extension Host (Worker)] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2025-08-29 00:11:50.472 [info] [vscode.dev] [getSessions] [all] starting
+2025-08-29 00:11:50.472 [info] [vscode.dev] [getSessions] [all] no accounts found
+2025-08-29 00:11:50.472 [info] [vscode.dev] [getSessions] [all] starting
+2025-08-29 00:11:50.472 [info] [vscode.dev] [getSessions] [all] no accounts found
+2025-08-29 00:11:50.472 [info] [vscode.dev] [getSessions] [all] starting
+2025-08-29 00:11:50.472 [info] [vscode.dev] [getSessions] [all] no accounts found
+2025-08-29 00:11:50.472 [info] [vscode.dev] [getSessions] [all] starting
+2025-08-29 00:11:50.472 [info] [vscode.dev] [getSessions] [all] no accounts found
+2025-08-29 00:11:50.473 [info] [vscode.dev] [getSessions] [all] starting
+2025-08-29 00:11:50.473 [info] [vscode.dev] [getSessions] [all] starting
+2025-08-29 00:11:50.473 [info] [vscode.dev] [getSessions] [all] no accounts found
+2025-08-29 00:11:50.473 [info] [vscode.dev] [getSessions] [all] no accounts found
+2025-08-29 00:11:54.386 [info] [Window] Extension host (LocalWebWorker) is unresponsive.
+2025-08-29 00:11:54.386 [info] [Window] Extension host (LocalWebWorker) is unresponsive.
+2025-08-29 00:11:55.088 [info] [Window] Extension host (LocalWebWorker) is responsive.
+2025-08-29 00:11:55.088 [info] [Window] Extension host (LocalWebWorker) is responsive.
+2025-08-29 00:11:55.252 [info] [vscode.dev] [getSessions] [all] starting
+2025-08-29 00:11:55.252 [info] [vscode.dev] [getSessions] [all] no accounts found
+2025-08-29 00:11:55.252 [info] [vscode.dev] [getSessions] [all] starting
+2025-08-29 00:11:55.252 [info] [vscode.dev] [getSessions] [all] no accounts found
+2025-08-29 00:11:55.257 [info] [vscode.dev] [getSessions] [all] starting
+2025-08-29 00:11:55.257 [info] [vscode.dev] [getSessions] [all] starting
+2025-08-29 00:11:55.257 [info] [vscode.dev] [getSessions] [all] no accounts found
+2025-08-29 00:11:55.257 [info] [vscode.dev] [getSessions] [all] no accounts found
+2025-08-29 00:11:55.333 [info] [Settings Sync] [AutoSync] Triggered by Interval
+2025-08-29 00:11:55.333 [info] [Settings Sync] [AutoSync] Triggered by Interval
+2025-08-29 00:11:55.333 [info] [Settings Sync] Sync started.
+2025-08-29 00:11:55.333 [info] [Settings Sync] Sync started.
+2025-08-29 00:11:55.337 [info] [Window] Settings Sync: Account status changed from uninitialized to available
+2025-08-29 00:11:55.337 [info] [Window] Settings Sync: Account status changed from uninitialized to available
+2025-08-29 00:11:55.341 [info] [GitHub Authentication] Reading sessions from keychain...
+2025-08-29 00:11:55.341 [info] [GitHub Authentication] Got stored sessions!
+2025-08-29 00:11:55.341 [info] [GitHub Authentication] Got 3 verified sessions.
+2025-08-29 00:11:55.341 [info] [GitHub Authentication] Getting sessions for all scopes...
+2025-08-29 00:11:55.341 [info] [GitHub Authentication] Got 3 sessions for ...
+2025-08-29 00:11:55.341 [info] [GitHub Authentication] Reading sessions from keychain...
+2025-08-29 00:11:55.341 [info] [GitHub Authentication] Got stored sessions!
+2025-08-29 00:11:55.341 [info] [GitHub Authentication] Got 3 verified sessions.
+2025-08-29 00:11:55.341 [info] [GitHub Authentication] Getting sessions for all scopes...
+2025-08-29 00:11:55.341 [info] [GitHub Authentication] Got 3 sessions for ...
+2025-08-29 00:11:55.341 [info] [GitHub Authentication] Getting sessions for all scopes...
+2025-08-29 00:11:55.341 [info] [GitHub Authentication] Got 3 sessions for ...
+2025-08-29 00:11:55.341 [info] [GitHub Authentication] Getting sessions for all scopes...
+2025-08-29 00:11:55.341 [info] [GitHub Authentication] Got 3 sessions for ...
+2025-08-29 00:11:55.341 [info] [GitHub Authentication] Getting sessions for all scopes...
+2025-08-29 00:11:55.341 [info] [GitHub Authentication] Got 3 sessions for ...
+2025-08-29 00:11:55.341 [info] [GitHub Authentication] Getting sessions for all scopes...
+2025-08-29 00:11:55.341 [info] [GitHub Authentication] Got 3 sessions for ...
+2025-08-29 00:11:55.341 [info] [GitHub Authentication] Getting sessions for user:email...
+2025-08-29 00:11:55.341 [info] [GitHub Authentication] Got 1 sessions for user:email...
+2025-08-29 00:11:55.341 [info] [GitHub Authentication] Getting sessions for all scopes...
+2025-08-29 00:11:55.341 [info] [GitHub Authentication] Got 3 sessions for ...
+2025-08-29 00:11:55.341 [info] [GitHub Authentication] Getting sessions for all scopes...
+2025-08-29 00:11:55.341 [info] [GitHub Authentication] Got 3 sessions for ...
+2025-08-29 00:11:55.341 [info] [GitHub Authentication] Getting sessions for all scopes...
+2025-08-29 00:11:55.341 [info] [GitHub Authentication] Got 3 sessions for ...
+2025-08-29 00:11:55.341 [info] [GitHub Authentication] Getting sessions for all scopes...
+2025-08-29 00:11:55.341 [info] [GitHub Authentication] Got 3 sessions for ...
+2025-08-29 00:11:55.341 [info] [GitHub Authentication] Getting sessions for user:email...
+2025-08-29 00:11:55.341 [info] [GitHub Authentication] Got 1 sessions for user:email...
+2025-08-29 00:11:55.346 [info] [GitHub Enterprise Authentication] Reading sessions from keychain...
+2025-08-29 00:11:55.346 [info] [GitHub Enterprise Authentication] Reading sessions from keychain...
+2025-08-29 00:11:55.346 [info] [GitHub Enterprise Authentication] Getting sessions for all scopes...
+2025-08-29 00:11:55.346 [info] [GitHub Enterprise Authentication] Got 0 sessions for ...
+2025-08-29 00:11:55.346 [info] [GitHub Enterprise Authentication] Getting sessions for all scopes...
+2025-08-29 00:11:55.346 [info] [GitHub Enterprise Authentication] Got 0 sessions for ...
+2025-08-29 00:11:55.346 [info] [GitHub Enterprise Authentication] Getting sessions for all scopes...
+2025-08-29 00:11:55.346 [info] [GitHub Enterprise Authentication] Got 0 sessions for ...
+2025-08-29 00:11:55.346 [info] [GitHub Enterprise Authentication] Getting sessions for all scopes...
+2025-08-29 00:11:55.346 [info] [GitHub Enterprise Authentication] Got 0 sessions for ...
+2025-08-29 00:11:55.347 [info] [GitHub Enterprise Authentication] Getting sessions for all scopes...
+2025-08-29 00:11:55.347 [info] [GitHub Enterprise Authentication] Getting sessions for all scopes...
+2025-08-29 00:11:55.348 [info] [GitHub Enterprise Authentication] Got 0 sessions for ...
+2025-08-29 00:11:55.348 [info] [GitHub Enterprise Authentication] Got 0 sessions for ...
+2025-08-29 00:11:55.349 [info] [GitHub Enterprise Authentication] Getting sessions for all scopes...
+2025-08-29 00:11:55.349 [info] [GitHub Enterprise Authentication] Getting sessions for all scopes...
+2025-08-29 00:11:55.350 [info] [GitHub Enterprise Authentication] Got 0 sessions for ...
+2025-08-29 00:11:55.350 [info] [GitHub Enterprise Authentication] Got 0 sessions for ...
+2025-08-29 00:11:57.296 [info] [Extension Host (Worker)] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-08-29 00:11:57.296 [info] [Extension Host (Worker)] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-08-29 00:11:57.299 [info] [Extension Host (Worker)] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-08-29 00:11:57.299 [info] [Extension Host (Worker)] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-08-29 00:11:57.302 [info] [Extension Host (Worker)] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-08-29 00:11:57.302 [info] [Extension Host (Worker)] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2025-08-29 00:11:57.320 [info] [Settings Sync] Settings: No changes found during synchronizing settings.
+2025-08-29 00:11:57.320 [info] [Settings Sync] Settings: No changes found during synchronizing settings.
+2025-08-29 00:11:57.341 [info] [Settings Sync] Keybindings: No changes found during synchronizing keybindings.
+2025-08-29 00:11:57.341 [info] [Settings Sync] Keybindings: No changes found during synchronizing keybindings.
+2025-08-29 00:11:57.345 [info] [Settings Sync] Snippets: No changes found during synchronizing snippets.
+2025-08-29 00:11:57.345 [info] [Settings Sync] Snippets: No changes found during synchronizing snippets.
+2025-08-29 00:11:57.351 [info] [Settings Sync] Tasks: No changes found during synchronizing tasks.
+2025-08-29 00:11:57.351 [info] [Settings Sync] Tasks: No changes found during synchronizing tasks.
+2025-08-29 00:11:57.358 [info] [Settings Sync] Mcp: No changes found during synchronizing mcp.
+2025-08-29 00:11:57.358 [info] [Settings Sync] Mcp: No changes found during synchronizing mcp.
+2025-08-29 00:11:57.410 [info] [Settings Sync] GlobalState: No changes found during synchronizing ui state.
+2025-08-29 00:11:57.410 [info] [Settings Sync] GlobalState: No changes found during synchronizing ui state.
+2025-08-29 00:11:57.485 [info] [Settings Sync] Extensions: No changes found during synchronizing extensions.
+2025-08-29 00:11:57.485 [info] [Settings Sync] Extensions: No changes found during synchronizing extensions.
+2025-08-29 00:11:57.491 [info] [Settings Sync] Prompts: No changes found during synchronizing prompts.
+2025-08-29 00:11:57.491 [info] [Settings Sync] Prompts: No changes found during synchronizing prompts.
+2025-08-29 00:11:57.495 [info] [Settings Sync] Profiles: No changes found during synchronizing profiles.
+2025-08-29 00:11:57.495 [info] [Settings Sync] Profiles: No changes found during synchronizing profiles.
+2025-08-29 00:11:57.498 [info] [Settings Sync] Syncing profile. النظام المسبق
+2025-08-29 00:11:57.498 [info] [Settings Sync] Syncing profile. النظام المسبق
+2025-08-29 00:11:57.556 [info] [Settings Sync] Settings (النظام المسبق): No changes found during synchronizing settings.
+2025-08-29 00:11:57.556 [info] [Settings Sync] Settings (النظام المسبق): No changes found during synchronizing settings.
+2025-08-29 00:11:57.577 [info] [Settings Sync] Keybindings (النظام المسبق): No changes found during synchronizing keybindings.
+2025-08-29 00:11:57.577 [info] [Settings Sync] Keybindings (النظام المسبق): No changes found during synchronizing keybindings.
+2025-08-29 00:11:57.586 [info] [Settings Sync] Snippets (النظام المسبق): No changes found during synchronizing snippets.
+2025-08-29 00:11:57.586 [info] [Settings Sync] Snippets (النظام المسبق): No changes found during synchronizing snippets.
+2025-08-29 00:11:57.597 [info] [Settings Sync] Tasks (النظام المسبق): No changes found during synchronizing tasks.
+2025-08-29 00:11:57.597 [info] [Settings Sync] Tasks (النظام المسبق): No changes found during synchronizing tasks.
+2025-08-29 00:11:57.605 [info] [Settings Sync] Mcp (النظام المسبق): No changes found during synchronizing mcp.
+2025-08-29 00:11:57.605 [info] [Settings Sync] Mcp (النظام المسبق): No changes found during synchronizing mcp.
+2025-08-29 00:11:57.617 [info] [Settings Sync] GlobalState (النظام المسبق): No changes found during synchronizing ui state.
+2025-08-29 00:11:57.617 [info] [Settings Sync] GlobalState (النظام المسبق): No changes found during synchronizing ui state.
+2025-08-29 00:11:57.660 [info] [Settings Sync] Extensions (النظام المسبق): No changes found during synchronizing extensions.
+2025-08-29 00:11:57.660 [info] [Settings Sync] Extensions (النظام المسبق): No changes found during synchronizing extensions.
+2025-08-29 00:11:57.665 [info] [Settings Sync] Prompts (النظام المسبق): No changes found during synchronizing prompts.
+2025-08-29 00:11:57.665 [info] [Settings Sync] Prompts (النظام المسبق): No changes found during synchronizing prompts.
+2025-08-29 00:11:57.666 [info] [Settings Sync] Sync done. Took 2333ms
+2025-08-29 00:11:57.666 [info] [Settings Sync] Sync done. Took 2333ms
+2025-08-29 00:11:58.483 [info] [JSON Language Server] l10n: No bundle configured.
+2025-08-29 00:11:58.483 [info] [JSON Language Server] l10n: No bundle configured.
+2025-08-29 00:12:07.776 [info] [Settings Sync] [AutoSync] Triggered by Activity
+2025-08-29 00:12:07.776 [info] [Settings Sync] Sync started.
+2025-08-29 00:12:07.776 [info] [Settings Sync] [AutoSync] Triggered by Activity
+2025-08-29 00:12:07.776 [info] [Settings Sync] Sync started.
+2025-08-29 00:12:08.326 [info] [Settings Sync] Settings: No changes found during synchronizing settings.
+2025-08-29 00:12:08.326 [info] [Settings Sync] Settings: No changes found during synchronizing settings.
+2025-08-29 00:12:08.333 [info] [Settings Sync] Keybindings: No changes found during synchronizing keybindings.
+2025-08-29 00:12:08.333 [info] [Settings Sync] Keybindings: No changes found during synchronizing keybindings.
+2025-08-29 00:12:08.338 [info] [Settings Sync] Snippets: No changes found during synchronizing snippets.
+2025-08-29 00:12:08.338 [info] [Settings Sync] Snippets: No changes found during synchronizing snippets.
+2025-08-29 00:12:08.343 [info] [Settings Sync] Tasks: No changes found during synchronizing tasks.
+2025-08-29 00:12:08.343 [info] [Settings Sync] Tasks: No changes found during synchronizing tasks.
+2025-08-29 00:12:08.349 [info] [Settings Sync] Mcp: No changes found during synchronizing mcp.
+2025-08-29 00:12:08.349 [info] [Settings Sync] Mcp: No changes found during synchronizing mcp.
+2025-08-29 00:12:09.806 [info] [Settings Sync] GlobalState: Updated remote ui state. Updated: recently.opened.
+2025-08-29 00:12:09.806 [info] [Settings Sync] GlobalState: Updated remote ui state. Updated: recently.opened.
+2025-08-29 00:12:09.830 [info] [Settings Sync] GlobalState: Updated last synchronized ui state
+2025-08-29 00:12:09.830 [info] [Settings Sync] GlobalState: Updated last synchronized ui state
+2025-08-29 00:12:09.946 [info] [Settings Sync] Extensions: No changes found during synchronizing extensions.
+2025-08-29 00:12:09.946 [info] [Settings Sync] Extensions: No changes found during synchronizing extensions.
+2025-08-29 00:12:09.953 [info] [Settings Sync] Prompts: No changes found during synchronizing prompts.
+2025-08-29 00:12:09.953 [info] [Settings Sync] Prompts: No changes found during synchronizing prompts.
+2025-08-29 00:12:09.958 [info] [Settings Sync] Profiles: No changes found during synchronizing profiles.
+2025-08-29 00:12:09.958 [info] [Settings Sync] Profiles: No changes found during synchronizing profiles.
+2025-08-29 00:12:09.962 [info] [Settings Sync] Syncing profile. النظام المسبق
+2025-08-29 00:12:09.962 [info] [Settings Sync] Syncing profile. النظام المسبق
+2025-08-29 00:12:09.971 [info] [Settings Sync] Settings (النظام المسبق): No changes found during synchronizing settings.
+2025-08-29 00:12:09.971 [info] [Settings Sync] Settings (النظام المسبق): No changes found during synchronizing settings.
+2025-08-29 00:12:10.015 [info] [Settings Sync] Keybindings (النظام المسبق): No changes found during synchronizing keybindings.
+2025-08-29 00:12:10.015 [info] [Settings Sync] Keybindings (النظام المسبق): No changes found during synchronizing keybindings.
+2025-08-29 00:12:10.037 [info] [Settings Sync] Snippets (النظام المسبق): No changes found during synchronizing snippets.
+2025-08-29 00:12:10.037 [info] [Settings Sync] Snippets (النظام المسبق): No changes found during synchronizing snippets.
+2025-08-29 00:12:10.051 [info] [Settings Sync] Tasks (النظام المسبق): No changes found during synchronizing tasks.
+2025-08-29 00:12:10.051 [info] [Settings Sync] Tasks (النظام المسبق): No changes found during synchronizing tasks.
+2025-08-29 00:12:10.058 [info] [Settings Sync] Mcp (النظام المسبق): No changes found during synchronizing mcp.
+2025-08-29 00:12:10.058 [info] [Settings Sync] Mcp (النظام المسبق): No changes found during synchronizing mcp.
+2025-08-29 00:12:10.069 [info] [Settings Sync] GlobalState (النظام المسبق): No changes found during synchronizing ui state.
+2025-08-29 00:12:10.069 [info] [Settings Sync] GlobalState (النظام المسبق): No changes found during synchronizing ui state.
+2025-08-29 00:12:10.117 [info] [Settings Sync] Extensions (النظام المسبق): No changes found during synchronizing extensions.
+2025-08-29 00:12:10.117 [info] [Settings Sync] Extensions (النظام المسبق): No changes found during synchronizing extensions.
+2025-08-29 00:12:10.123 [info] [Settings Sync] Prompts (النظام المسبق): No changes found during synchronizing prompts.
+2025-08-29 00:12:10.123 [info] [Settings Sync] Prompts (النظام المسبق): No changes found during synchronizing prompts.
+2025-08-29 00:12:10.124 [info] [Settings Sync] Sync done. Took 2348ms
+2025-08-29 00:12:10.124 [info] [Settings Sync] Sync done. Took 2348ms
+2025-08-29 00:12:24.601 [info] [Settings Sync] [AutoSync] Triggered by Activity
+2025-08-29 00:12:24.601 [info] [Settings Sync] [AutoSync] Triggered by Activity
+2025-08-29 00:12:24.601 [info] [Settings Sync] Sync started.
+2025-08-29 00:12:24.601 [info] [Settings Sync] Sync started.
+2025-08-29 00:12:25.151 [info] [Settings Sync] Settings: No changes found during synchronizing settings.
+2025-08-29 00:12:25.151 [info] [Settings Sync] Settings: No changes found during synchronizing settings.
+2025-08-29 00:12:25.156 [info] [Settings Sync] Keybindings: No changes found during synchronizing keybindings.
+2025-08-29 00:12:25.156 [info] [Settings Sync] Keybindings: No changes found during synchronizing keybindings.
+2025-08-29 00:12:25.163 [info] [Settings Sync] Snippets: No changes found during synchronizing snippets.
+2025-08-29 00:12:25.163 [info] [Settings Sync] Snippets: No changes found during synchronizing snippets.
+2025-08-29 00:12:25.169 [info] [Settings Sync] Tasks: No changes found during synchronizing tasks.
+2025-08-29 00:12:25.169 [info] [Settings Sync] Tasks: No changes found during synchronizing tasks.
+2025-08-29 00:12:25.175 [info] [Settings Sync] Mcp: No changes found during synchronizing mcp.
+2025-08-29 00:12:25.175 [info] [Settings Sync] Mcp: No changes found during synchronizing mcp.
+2025-08-29 00:12:25.185 [info] [Settings Sync] GlobalState: No changes found during synchronizing ui state.
+2025-08-29 00:12:25.185 [info] [Settings Sync] GlobalState: No changes found during synchronizing ui state.
+2025-08-29 00:12:25.227 [info] [Settings Sync] Extensions: No changes found during synchronizing extensions.
+2025-08-29 00:12:25.227 [info] [Settings Sync] Extensions: No changes found during synchronizing extensions.
+2025-08-29 00:12:25.232 [info] [Settings Sync] Prompts: No changes found during synchronizing prompts.
+2025-08-29 00:12:25.232 [info] [Settings Sync] Prompts: No changes found during synchronizing prompts.
+2025-08-29 00:12:25.238 [info] [Settings Sync] Profiles: No changes found during synchronizing profiles.
+2025-08-29 00:12:25.238 [info] [Settings Sync] Profiles: No changes found during synchronizing profiles.
+2025-08-29 00:12:25.244 [info] [Settings Sync] Syncing profile. النظام المسبق
+2025-08-29 00:12:25.244 [info] [Settings Sync] Syncing profile. النظام المسبق
+2025-08-29 00:12:25.259 [info] [Settings Sync] Settings (النظام المسبق): No changes found during synchronizing settings.
+2025-08-29 00:12:25.259 [info] [Settings Sync] Settings (النظام المسبق): No changes found during synchronizing settings.
+2025-08-29 00:12:25.269 [info] [Settings Sync] Keybindings (النظام المسبق): No changes found during synchronizing keybindings.
+2025-08-29 00:12:25.269 [info] [Settings Sync] Keybindings (النظام المسبق): No changes found during synchronizing keybindings.
+2025-08-29 00:12:25.277 [info] [Settings Sync] Snippets (النظام المسبق): No changes found during synchronizing snippets.
+2025-08-29 00:12:25.277 [info] [Settings Sync] Snippets (النظام المسبق): No changes found during synchronizing snippets.
+2025-08-29 00:12:25.290 [info] [Settings Sync] Tasks (النظام المسبق): No changes found during synchronizing tasks.
+2025-08-29 00:12:25.290 [info] [Settings Sync] Tasks (النظام المسبق): No changes found during synchronizing tasks.
+2025-08-29 00:12:25.305 [info] [Settings Sync] Mcp (النظام المسبق): No changes found during synchronizing mcp.
+2025-08-29 00:12:25.305 [info] [Settings Sync] Mcp (النظام المسبق): No changes found during synchronizing mcp.
+2025-08-29 00:12:25.315 [info] [Settings Sync] GlobalState (النظام المسبق): No changes found during synchronizing ui state.
+2025-08-29 00:12:25.315 [info] [Settings Sync] GlobalState (النظام المسبق): No changes found during synchronizing ui state.
+2025-08-29 00:12:25.380 [info] [Settings Sync] Extensions (النظام المسبق): No changes found during synchronizing extensions.
+2025-08-29 00:12:25.380 [info] [Settings Sync] Extensions (النظام المسبق): No changes found during synchronizing extensions.
+2025-08-29 00:12:25.388 [info] [Settings Sync] Prompts (النظام المسبق): No changes found during synchronizing prompts.
+2025-08-29 00:12:25.388 [info] [Settings Sync] Prompts (النظام المسبق): No changes found during synchronizing prompts.
+2025-08-29 00:12:25.389 [info] [Settings Sync] Sync done. Took 788ms
+2025-08-29 00:12:25.389 [info] [Settings Sync] Sync done. Took 788ms
+2025-08-29 00:15:43.922 [info] [Settings Sync] [AutoSync] Triggered by Activity
+2025-08-29 00:15:43.922 [info] [Settings Sync] [AutoSync] Triggered by Activity
+2025-08-29 00:15:43.923 [info] [Settings Sync] Sync started.
+2025-08-29 00:15:43.923 [info] [Settings Sync] Sync started.
+2025-08-29 00:15:45.879 [info] [Settings Sync] Settings: No changes found during synchronizing settings.
+2025-08-29 00:15:45.879 [info] [Settings Sync] Settings: No changes found during synchronizing settings.
+2025-08-29 00:15:45.903 [info] [Settings Sync] Keybindings: No changes found during synchronizing keybindings.
+2025-08-29 00:15:45.903 [info] [Settings Sync] Keybindings: No changes found during synchronizing keybindings.
+2025-08-29 00:15:45.916 [info] [Settings Sync] Snippets: No changes found during synchronizing snippets.
+2025-08-29 00:15:45.916 [info] [Settings Sync] Snippets: No changes found during synchronizing snippets.
+2025-08-29 00:15:45.925 [info] [Settings Sync] Tasks: No changes found during synchronizing tasks.
+2025-08-29 00:15:45.925 [info] [Settings Sync] Tasks: No changes found during synchronizing tasks.
+2025-08-29 00:15:45.934 [info] [Settings Sync] Mcp: No changes found during synchronizing mcp.
+2025-08-29 00:15:45.934 [info] [Settings Sync] Mcp: No changes found during synchronizing mcp.
+2025-08-29 00:15:45.951 [info] [Settings Sync] GlobalState: No changes found during synchronizing ui state.
+2025-08-29 00:15:45.951 [info] [Settings Sync] GlobalState: No changes found during synchronizing ui state.
+2025-08-29 00:15:46.023 [info] [Settings Sync] Extensions: No changes found during synchronizing extensions.
+2025-08-29 00:15:46.023 [info] [Settings Sync] Extensions: No changes found during synchronizing extensions.
+2025-08-29 00:15:46.030 [info] [Settings Sync] Prompts: No changes found during synchronizing prompts.
+2025-08-29 00:15:46.030 [info] [Settings Sync] Prompts: No changes found during synchronizing prompts.
+2025-08-29 00:15:46.039 [info] [Settings Sync] Profiles: No changes found during synchronizing profiles.
+2025-08-29 00:15:46.039 [info] [Settings Sync] Profiles: No changes found during synchronizing profiles.
+2025-08-29 00:15:46.044 [info] [Settings Sync] Syncing profile. النظام المسبق
+2025-08-29 00:15:46.044 [info] [Settings Sync] Syncing profile. النظام المسبق
+2025-08-29 00:15:46.058 [info] [Settings Sync] Settings (النظام المسبق): No changes found during synchronizing settings.
+2025-08-29 00:15:46.058 [info] [Settings Sync] Settings (النظام المسبق): No changes found during synchronizing settings.
+2025-08-29 00:15:46.067 [info] [Settings Sync] Keybindings (النظام المسبق): No changes found during synchronizing keybindings.
+2025-08-29 00:15:46.067 [info] [Settings Sync] Keybindings (النظام المسبق): No changes found during synchronizing keybindings.
+2025-08-29 00:15:46.074 [info] [Settings Sync] Snippets (النظام المسبق): No changes found during synchronizing snippets.
+2025-08-29 00:15:46.074 [info] [Settings Sync] Snippets (النظام المسبق): No changes found during synchronizing snippets.
+2025-08-29 00:15:46.089 [info] [Settings Sync] Tasks (النظام المسبق): No changes found during synchronizing tasks.
+2025-08-29 00:15:46.089 [info] [Settings Sync] Tasks (النظام المسبق): No changes found during synchronizing tasks.
+2025-08-29 00:15:46.097 [info] [Settings Sync] Mcp (النظام المسبق): No changes found during synchronizing mcp.
+2025-08-29 00:15:46.097 [info] [Settings Sync] Mcp (النظام المسبق): No changes found during synchronizing mcp.
+2025-08-29 00:15:47.315 [info] [Settings Sync] GlobalState (النظام المسبق): Updated remote ui state. Updated: memento/workbench.editor.keybindings.
+2025-08-29 00:15:47.315 [info] [Settings Sync] GlobalState (النظام المسبق): Updated remote ui state. Updated: memento/workbench.editor.keybindings.
+2025-08-29 00:15:47.321 [info] [Settings Sync] GlobalState (النظام المسبق): Updated last synchronized ui state
+2025-08-29 00:15:47.321 [info] [Settings Sync] GlobalState (النظام المسبق): Updated last synchronized ui state
+2025-08-29 00:15:47.374 [info] [Settings Sync] Extensions (النظام المسبق): No changes found during synchronizing extensions.
+2025-08-29 00:15:47.374 [info] [Settings Sync] Extensions (النظام المسبق): No changes found during synchronizing extensions.
+2025-08-29 00:15:47.378 [info] [Settings Sync] Prompts (النظام المسبق): No changes found during synchronizing prompts.
+2025-08-29 00:15:47.378 [info] [Settings Sync] Prompts (النظام المسبق): No changes found during synchronizing prompts.
+2025-08-29 00:15:47.380 [info] [Settings Sync] Sync done. Took 3457ms
+2025-08-29 00:15:47.380 [info] [Settings Sync] Sync done. Took 3457ms
+2025-08-29 00:15:51.904 [info] [Settings Sync] [AutoSync] Triggered by Activity
+2025-08-29 00:15:51.904 [info] [Settings Sync] [AutoSync] Triggered by Activity
+2025-08-29 00:15:51.905 [info] [Settings Sync] Sync started.
+2025-08-29 00:15:51.905 [info] [Settings Sync] Sync started.
+2025-08-29 00:15:52.382 [info] [Settings Sync] Settings: No changes found during synchronizing settings.
+2025-08-29 00:15:52.382 [info] [Settings Sync] Settings: No changes found during synchronizing settings.
+2025-08-29 00:15:52.399 [info] [Settings Sync] Keybindings: No changes found during synchronizing keybindings.
+2025-08-29 00:15:52.399 [info] [Settings Sync] Keybindings: No changes found during synchronizing keybindings.
+2025-08-29 00:15:52.408 [info] [Settings Sync] Snippets: No changes found during synchronizing snippets.
+2025-08-29 00:15:52.408 [info] [Settings Sync] Snippets: No changes found during synchronizing snippets.
+2025-08-29 00:15:52.420 [info] [Settings Sync] Tasks: No changes found during synchronizing tasks.
+2025-08-29 00:15:52.420 [info] [Settings Sync] Tasks: No changes found during synchronizing tasks.
+2025-08-29 00:15:52.435 [info] [Settings Sync] Mcp: No changes found during synchronizing mcp.
+2025-08-29 00:15:52.435 [info] [Settings Sync] Mcp: No changes found during synchronizing mcp.
+2025-08-29 00:15:52.468 [info] [Settings Sync] GlobalState: No changes found during synchronizing ui state.
+2025-08-29 00:15:52.468 [info] [Settings Sync] GlobalState: No changes found during synchronizing ui state.
+2025-08-29 00:15:52.534 [info] [Settings Sync] Extensions: No changes found during synchronizing extensions.
+2025-08-29 00:15:52.534 [info] [Settings Sync] Extensions: No changes found during synchronizing extensions.
+2025-08-29 00:15:52.546 [info] [Settings Sync] Prompts: No changes found during synchronizing prompts.
+2025-08-29 00:15:52.546 [info] [Settings Sync] Prompts: No changes found during synchronizing prompts.
+2025-08-29 00:15:52.553 [info] [Settings Sync] Profiles: No changes found during synchronizing profiles.
+2025-08-29 00:15:52.553 [info] [Settings Sync] Profiles: No changes found during synchronizing profiles.
+2025-08-29 00:15:52.559 [info] [Settings Sync] Syncing profile. النظام المسبق
+2025-08-29 00:15:52.559 [info] [Settings Sync] Syncing profile. النظام المسبق
+2025-08-29 00:15:52.574 [info] [Settings Sync] Settings (النظام المسبق): No changes found during synchronizing settings.
+2025-08-29 00:15:52.574 [info] [Settings Sync] Settings (النظام المسبق): No changes found during synchronizing settings.
+2025-08-29 00:15:52.584 [info] [Settings Sync] Keybindings (النظام المسبق): No changes found during synchronizing keybindings.
+2025-08-29 00:15:52.584 [info] [Settings Sync] Keybindings (النظام المسبق): No changes found during synchronizing keybindings.
+2025-08-29 00:15:52.591 [info] [Settings Sync] Snippets (النظام المسبق): No changes found during synchronizing snippets.
+2025-08-29 00:15:52.591 [info] [Settings Sync] Snippets (النظام المسبق): No changes found during synchronizing snippets.
+2025-08-29 00:15:52.608 [info] [Settings Sync] Tasks (النظام المسبق): No changes found during synchronizing tasks.
+2025-08-29 00:15:52.608 [info] [Settings Sync] Tasks (النظام المسبق): No changes found during synchronizing tasks.
+2025-08-29 00:15:52.618 [info] [Settings Sync] Mcp (النظام المسبق): No changes found during synchronizing mcp.
+2025-08-29 00:15:52.618 [info] [Settings Sync] Mcp (النظام المسبق): No changes found during synchronizing mcp.
+2025-08-29 00:15:53.950 [info] [Settings Sync] GlobalState (النظام المسبق): Updated remote ui state. Updated: memento/workbench.editor.keybindings.
+2025-08-29 00:15:53.950 [info] [Settings Sync] GlobalState (النظام المسبق): Updated remote ui state. Updated: memento/workbench.editor.keybindings.
+2025-08-29 00:15:53.972 [info] [Settings Sync] GlobalState (النظام المسبق): Updated last synchronized ui state
+2025-08-29 00:15:53.972 [info] [Settings Sync] GlobalState (النظام المسبق): Updated last synchronized ui state
+2025-08-29 00:15:54.091 [info] [Settings Sync] Extensions (النظام المسبق): No changes found during synchronizing extensions.
+2025-08-29 00:15:54.091 [info] [Settings Sync] Extensions (النظام المسبق): No changes found during synchronizing extensions.
+2025-08-29 00:15:54.097 [info] [Settings Sync] Prompts (النظام المسبق): No changes found during synchronizing prompts.
+2025-08-29 00:15:54.097 [info] [Settings Sync] Prompts (النظام المسبق): No changes found during synchronizing prompts.
+2025-08-29 00:15:54.099 [info] [Settings Sync] Sync done. Took 2194ms
+2025-08-29 00:15:54.099 [info] [Settings Sync] Sync done. Took 2194ms
+2025-08-29 00:17:42.916 [info] [Settings Sync] [AutoSync] Triggered by Activity
+2025-08-29 00:17:42.916 [info] [Settings Sync] [AutoSync] Triggered by Activity
+2025-08-29 00:17:42.916 [info] [Settings Sync] Sync started.
+2025-08-29 00:17:42.916 [info] [Settings Sync] Sync started.
+2025-08-29 00:17:45.343 [info] [Settings Sync] Settings: No changes found during synchronizing settings.
+2025-08-29 00:17:45.343 [info] [Settings Sync] Settings: No changes found during synchronizing settings.
+2025-08-29 00:17:45.351 [info] [Settings Sync] Keybindings: No changes found during synchronizing keybindings.
+2025-08-29 00:17:45.351 [info] [Settings Sync] Keybindings: No changes found during synchronizing keybindings.
+2025-08-29 00:17:45.360 [info] [Settings Sync] Snippets: No changes found during synchronizing snippets.
+2025-08-29 00:17:45.360 [info] [Settings Sync] Snippets: No changes found during synchronizing snippets.
+2025-08-29 00:17:45.402 [info] [Settings Sync] Tasks: No changes found during synchronizing tasks.
+2025-08-29 00:17:45.402 [info] [Settings Sync] Tasks: No changes found during synchronizing tasks.
+2025-08-29 00:17:45.412 [info] [Settings Sync] Mcp: No changes found during synchronizing mcp.
+2025-08-29 00:17:45.412 [info] [Settings Sync] Mcp: No changes found during synchronizing mcp.
+2025-08-29 00:17:45.429 [info] [Settings Sync] GlobalState: No changes found during synchronizing ui state.
+2025-08-29 00:17:45.429 [info] [Settings Sync] GlobalState: No changes found during synchronizing ui state.
+2025-08-29 00:17:45.489 [info] [Settings Sync] Extensions: No changes found during synchronizing extensions.
+2025-08-29 00:17:45.489 [info] [Settings Sync] Extensions: No changes found during synchronizing extensions.
+2025-08-29 00:17:45.496 [info] [Settings Sync] Prompts: No changes found during synchronizing prompts.
+2025-08-29 00:17:45.496 [info] [Settings Sync] Prompts: No changes found during synchronizing prompts.
+2025-08-29 00:17:45.508 [info] [Settings Sync] Profiles: No changes found during synchronizing profiles.
+2025-08-29 00:17:45.508 [info] [Settings Sync] Profiles: No changes found during synchronizing profiles.
+2025-08-29 00:17:45.519 [info] [Settings Sync] Syncing profile. النظام المسبق
+2025-08-29 00:17:45.519 [info] [Settings Sync] Syncing profile. النظام المسبق
+2025-08-29 00:17:45.534 [info] [Settings Sync] Settings (النظام المسبق): No changes found during synchronizing settings.
+2025-08-29 00:17:45.534 [info] [Settings Sync] Settings (النظام المسبق): No changes found during synchronizing settings.
+2025-08-29 00:17:45.543 [info] [Settings Sync] Keybindings (النظام المسبق): No changes found during synchronizing keybindings.
+2025-08-29 00:17:45.543 [info] [Settings Sync] Keybindings (النظام المسبق): No changes found during synchronizing keybindings.
+2025-08-29 00:17:45.549 [info] [Settings Sync] Snippets (النظام المسبق): No changes found during synchronizing snippets.
+2025-08-29 00:17:45.549 [info] [Settings Sync] Snippets (النظام المسبق): No changes found during synchronizing snippets.
+2025-08-29 00:17:45.557 [info] [Settings Sync] Tasks (النظام المسبق): No changes found during synchronizing tasks.
+2025-08-29 00:17:45.557 [info] [Settings Sync] Tasks (النظام المسبق): No changes found during synchronizing tasks.
+2025-08-29 00:17:45.565 [info] [Settings Sync] Mcp (النظام المسبق): No changes found during synchronizing mcp.
+2025-08-29 00:17:45.565 [info] [Settings Sync] Mcp (النظام المسبق): No changes found during synchronizing mcp.
+2025-08-29 00:17:45.575 [info] [Settings Sync] GlobalState (النظام المسبق): No changes found during synchronizing ui state.
+2025-08-29 00:17:45.575 [info] [Settings Sync] GlobalState (النظام المسبق): No changes found during synchronizing ui state.
+2025-08-29 00:17:45.643 [info] [Settings Sync] Extensions (النظام المسبق): No changes found during synchronizing extensions.
+2025-08-29 00:17:45.643 [info] [Settings Sync] Extensions (النظام المسبق): No changes found during synchronizing extensions.
+2025-08-29 00:17:45.652 [info] [Settings Sync] Prompts (النظام المسبق): No changes found during synchronizing prompts.
+2025-08-29 00:17:45.652 [info] [Settings Sync] Prompts (النظام المسبق): No changes found during synchronizing prompts.
+2025-08-29 00:17:45.654 [info] [Settings Sync] Sync done. Took 2737ms
+2025-08-29 00:17:45.654 [info] [Settings Sync] Sync done. Took 2737ms
+2025-08-29 00:18:48.820 [info] [Settings Sync] [AutoSync] Triggered by Activity
+2025-08-29 00:18:48.820 [info] [Settings Sync] [AutoSync] Triggered by Activity
+2025-08-29 00:18:48.820 [info] [Settings Sync] Sync started.
+2025-08-29 00:18:48.820 [info] [Settings Sync] Sync started.
+2025-08-29 00:18:49.917 [info] [Settings Sync] Settings: No changes found during synchronizing settings.
+2025-08-29 00:18:49.917 [info] [Settings Sync] Settings: No changes found during synchronizing settings.
+2025-08-29 00:18:49.954 [info] [Settings Sync] Keybindings: No changes found during synchronizing keybindings.
+2025-08-29 00:18:49.954 [info] [Settings Sync] Keybindings: No changes found during synchronizing keybindings.
+2025-08-29 00:18:49.962 [info] [Settings Sync] Snippets: No changes found during synchronizing snippets.
+2025-08-29 00:18:49.962 [info] [Settings Sync] Snippets: No changes found during synchronizing snippets.
+2025-08-29 00:18:49.972 [info] [Settings Sync] Tasks: No changes found during synchronizing tasks.
+2025-08-29 00:18:49.972 [info] [Settings Sync] Tasks: No changes found during synchronizing tasks.
+2025-08-29 00:18:49.981 [info] [Settings Sync] Mcp: No changes found during synchronizing mcp.
+2025-08-29 00:18:49.981 [info] [Settings Sync] Mcp: No changes found during synchronizing mcp.
+2025-08-29 00:18:50.001 [info] [Settings Sync] GlobalState: No changes found during synchronizing ui state.
+2025-08-29 00:18:50.001 [info] [Settings Sync] GlobalState: No changes found during synchronizing ui state.
+2025-08-29 00:18:50.064 [info] [Settings Sync] Extensions: No changes found during synchronizing extensions.
+2025-08-29 00:18:50.064 [info] [Settings Sync] Extensions: No changes found during synchronizing extensions.
+2025-08-29 00:18:50.071 [info] [Settings Sync] Prompts: No changes found during synchronizing prompts.
+2025-08-29 00:18:50.071 [info] [Settings Sync] Prompts: No changes found during synchronizing prompts.
+2025-08-29 00:18:50.080 [info] [Settings Sync] Profiles: No changes found during synchronizing profiles.
+2025-08-29 00:18:50.080 [info] [Settings Sync] Profiles: No changes found during synchronizing profiles.
+2025-08-29 00:18:50.087 [info] [Settings Sync] Syncing profile. النظام المسبق
+2025-08-29 00:18:50.087 [info] [Settings Sync] Syncing profile. النظام المسبق
+2025-08-29 00:18:50.106 [info] [Settings Sync] Settings (النظام المسبق): No changes found during synchronizing settings.
+2025-08-29 00:18:50.106 [info] [Settings Sync] Settings (النظام المسبق): No changes found during synchronizing settings.
+2025-08-29 00:18:50.115 [info] [Settings Sync] Keybindings (النظام المسبق): No changes found during synchronizing keybindings.
+2025-08-29 00:18:50.115 [info] [Settings Sync] Keybindings (النظام المسبق): No changes found during synchronizing keybindings.
+2025-08-29 00:18:50.123 [info] [Settings Sync] Snippets (النظام المسبق): No changes found during synchronizing snippets.
+2025-08-29 00:18:50.123 [info] [Settings Sync] Snippets (النظام المسبق): No changes found during synchronizing snippets.
+2025-08-29 00:18:50.137 [info] [Settings Sync] Tasks (النظام المسبق): No changes found during synchronizing tasks.
+2025-08-29 00:18:50.137 [info] [Settings Sync] Tasks (النظام المسبق): No changes found during synchronizing tasks.
+2025-08-29 00:18:50.149 [info] [Settings Sync] Mcp (النظام المسبق): No changes found during synchronizing mcp.
+2025-08-29 00:18:50.149 [info] [Settings Sync] Mcp (النظام المسبق): No changes found during synchronizing mcp.
+2025-08-29 00:18:50.163 [info] [Settings Sync] GlobalState (النظام المسبق): No changes found during synchronizing ui state.
+2025-08-29 00:18:50.163 [info] [Settings Sync] GlobalState (النظام المسبق): No changes found during synchronizing ui state.
+2025-08-29 00:18:50.244 [info] [Settings Sync] Extensions (النظام المسبق): No changes found during synchronizing extensions.
+2025-08-29 00:18:50.244 [info] [Settings Sync] Extensions (النظام المسبق): No changes found during synchronizing extensions.
+2025-08-29 00:18:50.250 [info] [Settings Sync] Prompts (النظام المسبق): No changes found during synchronizing prompts.
+2025-08-29 00:18:50.250 [info] [Settings Sync] Prompts (النظام المسبق): No changes found during synchronizing prompts.
+2025-08-29 00:18:50.252 [info] [Settings Sync] Sync done. Took 1432ms
+2025-08-29 00:18:50.252 [info] [Settings Sync] Sync done. Took 1432ms
+2025-08-29 00:19:19.195 [info] [Settings Sync] [AutoSync] Triggered by Activity
+2025-08-29 00:19:19.195 [info] [Settings Sync] Sync started.
+2025-08-29 00:19:19.195 [info] [Settings Sync] [AutoSync] Triggered by Activity
+2025-08-29 00:19:19.195 [info] [Settings Sync] Sync started.
+2025-08-29 00:19:20.086 [info] [Settings Sync] Settings: No changes found during synchronizing settings.
+2025-08-29 00:19:20.086 [info] [Settings Sync] Settings: No changes found during synchronizing settings.
+2025-08-29 00:19:20.096 [info] [Settings Sync] Keybindings: No changes found during synchronizing keybindings.
+2025-08-29 00:19:20.096 [info] [Settings Sync] Keybindings: No changes found during synchronizing keybindings.
+2025-08-29 00:19:20.103 [info] [Settings Sync] Snippets: No changes found during synchronizing snippets.
+2025-08-29 00:19:20.103 [info] [Settings Sync] Snippets: No changes found during synchronizing snippets.
+2025-08-29 00:19:20.116 [info] [Settings Sync] Tasks: No changes found during synchronizing tasks.
+2025-08-29 00:19:20.116 [info] [Settings Sync] Tasks: No changes found during synchronizing tasks.
+2025-08-29 00:19:20.125 [info] [Settings Sync] Mcp: No changes found during synchronizing mcp.
+2025-08-29 00:19:20.125 [info] [Settings Sync] Mcp: No changes found during synchronizing mcp.
+2025-08-29 00:19:20.141 [info] [Settings Sync] GlobalState: No changes found during synchronizing ui state.
+2025-08-29 00:19:20.141 [info] [Settings Sync] GlobalState: No changes found during synchronizing ui state.
+2025-08-29 00:19:20.206 [info] [Settings Sync] Extensions: No changes found during synchronizing extensions.
+2025-08-29 00:19:20.206 [info] [Settings Sync] Extensions: No changes found during synchronizing extensions.
+2025-08-29 00:19:20.217 [info] [Settings Sync] Prompts: No changes found during synchronizing prompts.
+2025-08-29 00:19:20.217 [info] [Settings Sync] Prompts: No changes found during synchronizing prompts.
+2025-08-29 00:19:20.227 [info] [Settings Sync] Profiles: No changes found during synchronizing profiles.
+2025-08-29 00:19:20.227 [info] [Settings Sync] Profiles: No changes found during synchronizing profiles.
+2025-08-29 00:19:20.232 [info] [Settings Sync] Syncing profile. النظام المسبق
+2025-08-29 00:19:20.232 [info] [Settings Sync] Syncing profile. النظام المسبق
+2025-08-29 00:19:20.250 [info] [Settings Sync] Settings (النظام المسبق): No changes found during synchronizing settings.
+2025-08-29 00:19:20.250 [info] [Settings Sync] Settings (النظام المسبق): No changes found during synchronizing settings.
+2025-08-29 00:19:20.259 [info] [Settings Sync] Keybindings (النظام المسبق): No changes found during synchronizing keybindings.
+2025-08-29 00:19:20.259 [info] [Settings Sync] Keybindings (النظام المسبق): No changes found during synchronizing keybindings.
+2025-08-29 00:19:20.267 [info] [Settings Sync] Snippets (النظام المسبق): No changes found during synchronizing snippets.
+2025-08-29 00:19:20.267 [info] [Settings Sync] Snippets (النظام المسبق): No changes found during synchronizing snippets.
+2025-08-29 00:19:20.275 [info] [Settings Sync] Tasks (النظام المسبق): No changes found during synchronizing tasks.
+2025-08-29 00:19:20.275 [info] [Settings Sync] Tasks (النظام المسبق): No changes found during synchronizing tasks.
+2025-08-29 00:19:20.283 [info] [Settings Sync] Mcp (النظام المسبق): No changes found during synchronizing mcp.
+2025-08-29 00:19:20.283 [info] [Settings Sync] Mcp (النظام المسبق): No changes found during synchronizing mcp.
+2025-08-29 00:19:20.294 [info] [Settings Sync] GlobalState (النظام المسبق): No changes found during synchronizing ui state.
+2025-08-29 00:19:20.294 [info] [Settings Sync] GlobalState (النظام المسبق): No changes found during synchronizing ui state.
+2025-08-29 00:19:20.369 [info] [Settings Sync] Extensions (النظام المسبق): No changes found during synchronizing extensions.
+2025-08-29 00:19:20.369 [info] [Settings Sync] Extensions (النظام المسبق): No changes found during synchronizing extensions.
+2025-08-29 00:19:20.379 [info] [Settings Sync] Prompts (النظام المسبق): No changes found during synchronizing prompts.
+2025-08-29 00:19:20.379 [info] [Settings Sync] Prompts (النظام المسبق): No changes found during synchronizing prompts.
+2025-08-29 00:19:20.381 [info] [Settings Sync] Sync done. Took 1186ms
+2025-08-29 00:19:20.381 [info] [Settings Sync] Sync done. Took 1186ms
